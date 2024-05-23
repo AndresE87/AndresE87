@@ -19,7 +19,7 @@ Hello! I'm **Andres Espinoza** 🇦🇷, a passionate developer and researcher f
 
 <div align="center">
   <a href="https://tito-portfolio-nine.vercel.app" target="_blank">
-    <img src="./public/portfolio.PNG" alt="Andres Espinoza Portfolio" style="max-width: 100%; border-radius: 10px;">
+    <img src="./public/portfolio.png" alt="Andres Espinoza Portfolio" style="max-width: 100%; border-radius: 10px;">
   </a>
   <h2><a href="https://tito-portfolio-nine.vercel.app" target="_blank">Visit My Portfolio</a></h2>
 </div>
@@ -30,7 +30,9 @@ Hello! I'm **Andres Espinoza** 🇦🇷, a passionate developer and researcher f
 
 ### 1. Blockchain 🔗
 
+#### - Languages 🌐
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white" alt="Solidity">
   <img src="https://img.shields.io/badge/Vyper-363636.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Vyper">
   <img src="https://img.shields.io/badge/Go-363636.svg?style=for-the-badge&logo=Go&logoColor=white" alt="Go">
@@ -69,9 +71,6 @@ Hello! I'm **Andres Espinoza** 🇦🇷, a passionate developer and researcher f
   <img src="https://img.shields.io/badge/IPFS-65C2CB.svg?style=for-the-badge&logo=IPFS&logoColor=white" alt="IPFS">
 </div>
 
-### 3. Artificial Intelligence 🧠
-
-
 ### 2. Bot Development 🤖
 
 #### - Languages 🌐
@@ -107,6 +106,13 @@ Hello! I'm **Andres Espinoza** 🇦🇷, a passionate developer and researcher f
   <img src="https://img.shields.io/badge/Sandwich_Bot-FFA500.svg?style=for-the-badge" alt="Sandwich Bot">
   <img src="https://img.shields.io/badge/Frontrunning_Bot-8B0000.svg?style=for-the-badge" alt="Frontrunning Bot">
 </div>
+
+### 3. Artificial Intelligence 🧠
+
+#### - Languages 🌐
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white" alt="Julia">
 </div>
@@ -298,4 +304,3 @@ All my open-source projects are released under the [MIT License](https://opensou
 Thank you for visiting my GitHub profile! If you have any questions or would like to collaborate on a project, feel free to reach out to me. Let's innovate and create something amazing together!
 
 ---
-=======
