@@ -19,7 +19,7 @@ Hello! I'm **Andres Espinoza** 🇦🇷, a passionate developer and researcher f
 
 <div align="center">
   <a href="https://tito-portfolio-nine.vercel.app" target="_blank">
-    <img src="./public/portfolio.png" alt="Andres Espinoza Portfolio" style="max-width: 100%; border-radius: 10px;">
+    <img src="./public/portfolio.PNG" alt="Andres Espinoza Portfolio" style="max-width: 100%; border-radius: 10px;">
   </a>
   <h2><a href="https://tito-portfolio-nine.vercel.app" target="_blank">Visit My Portfolio</a></h2>
 </div>
@@ -298,3 +298,4 @@ All my open-source projects are released under the [MIT License](https://opensou
 Thank you for visiting my GitHub profile! If you have any questions or would like to collaborate on a project, feel free to reach out to me. Let's innovate and create something amazing together!
 
 ---
+=======
