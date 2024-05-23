@@ -9,3 +9,12 @@
 🔍 Passionate about open source and collaboration, I believe in the power of community-driven development to drive innovation forward. I'm always eager to contribute to exciting projects and collaborate with like-minded developers to tackle challenges head-on.
 
 💡 If you're looking to build cutting-edge blockchain solutions, develop intuitive web applications, or harness the power of bots to enhance your projects, you're in the right place. Let's connect, collaborate, and create something extraordinary together!
+
+## 📂 Portfolio
+
+<div align="center">
+  <a href="https://tito-portfolio-nine.vercel.app" target="_blank">
+    <img src="./public/portfolio.png" alt="Andres Espinoza Portfolio" style="max-width: 100%; border-radius: 10px;">
+  </a>
+  <h2><a href="https://tito-portfolio-nine.vercel.app" target="_blank">Visit My Portfolio</a></h2>
+</div>
