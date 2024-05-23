@@ -23,3 +23,39 @@ Hello! I'm **Andres Espinoza** 🇦🇷, a passionate developer and researcher f
   </a>
   <h2><a href="https://tito-portfolio-nine.vercel.app" target="_blank">Visit My Portfolio</a></h2>
 </div>
+
+### 2. Bot Development 🤖
+
+#### - Languages 🌐
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
+</div>
+
+#### - Platforms & Tools 🛠️
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Discord_Bots-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Bots">
+  <img src="https://img.shields.io/badge/Telegram_Bots-2CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Bots">
+  <img src="https://img.shields.io/badge/Microsoft_Bot_Framework-0078D7.svg?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Bot Framework">
+  <img src="https://img.shields.io/badge/Dialogflow-FF9800.svg?style=for-the-badge&logo=Dialogflow&logoColor=white" alt="Dialogflow">
+</div>
+
+#### - Libraries 📚
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/discord.py-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="discord.py">
+  <img src="https://img.shields.io/badge/discord.js-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="discord.js">
+  <img src="https://img.shields.io/badge/python--telegram--bot-2CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="python-telegram-bot">
+  <img src="https://img.shields.io/badge/aiogram-2CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="aiogram">
+</div>
+
+#### - Trading Bots 💰
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Arbitrage_Bot-FF4500.svg?style=for-the-badge" alt="Arbitrage Bot">
+  <img src="https://img.shields.io/badge/Sniper_Bot-006400.svg?style=for-the-badge" alt="Sniper Bot">
+  <img src="https://img.shields.io/badge/Sandwich_Bot-FFA500.svg?style=for-the-badge" alt="Sandwich Bot">
+  <img src="https://img.shields.io/badge/Frontrunning_Bot-8B0000.svg?style=for-the-badge" alt="Frontrunning Bot">
+</div>
